@@ -18,7 +18,7 @@ TOKEN=tu_token_de_discord_aqui
 CLIENT_ID=tu_client_id_de_discord_aqui
 ```
 
-#Modificado
+# Modifícalo
 ```
 let prefix = '/'
 let webPages = ['https://ejemplo.com/index_.html'];
@@ -58,7 +58,9 @@ Se conecta automáticamente durante la segunda semana de cada mes, de lunes a do
 
 # Instrucciones de uso
 • Instala las dependencias:
-```npm install discord.js axios node-schedule dotenv cheerio```
+```
+npm install discord.js axios node-schedule dotenv cheerio
+```
 
 • Configura el archivo ```.env``` con tus credenciales
 
