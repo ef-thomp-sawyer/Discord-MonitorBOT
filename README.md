@@ -73,4 +73,4 @@ El bot registrará automáticamente los comandos slash y estará listo para inte
 Personal DEMO
 https://discord.com/oauth2/authorize?client_id=1378976473783734353&permissions=8&integration_type=0&scope=bot+applications.commands
 
-## powered by wan & bolchas c
+## powered by silly, wan & bolchas c
